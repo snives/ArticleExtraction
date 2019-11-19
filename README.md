@@ -13,5 +13,5 @@ The dependent variable `Output` is biased, that is its classification is imbalan
 
 I use Keras with a Tensorflow backend to define a 3 layer neural network, using ReLu activation function and RMSProp optimizer, training for 50 epochs with batches of 100.  The neural network achieves a 98% accuracy at predicting the correct classification of each tag in a html document.
 
-- Author: Steve Snively
+- Author: Snives
 - Project: http://github.com/snives/ArticleExtraction
